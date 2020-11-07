@@ -1,0 +1,9 @@
+#test_filter{
+    width: 20% ;
+}
+#test{
+    width: 100% !important;
+}
+.map iframe{
+    width: 99%;
+}
